@@ -1,0 +1,1944 @@
+fileFormatVersion: 2
+guid: af26f644735d7a940b85abcb508f77fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personagem para animar 3_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1725
+        width: 186
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f67bc41a44ba44a9a2475852ba7571
+      internalID: 1161444571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337e29097e35f0489fddd5e6d28d675
+      internalID: -1780193358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b353d81169018c46a24e06d7098faab
+      internalID: 889502198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f739ec14a3cbf24282366789eb21def
+      internalID: -148587079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a61012b1a999d43b0d5dc9f5a3fdda
+      internalID: -1799331445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_5
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430a2e06edc183498ffe2c59739e0e3
+      internalID: -1486769805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_6
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19a1cc61625da499980a97098b87e5
+      internalID: -971702817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_7
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1731
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398141ce8855aba45817fecdce512875
+      internalID: 195792914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_8
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f89c5f20a7584fafef6a6f92a4e68
+      internalID: -1558062107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_9
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448894cd90c8294c888c96ee4168ee6
+      internalID: 741044125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_10
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f41d123b7d2804784673683ad1af6a
+      internalID: 789315084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_11
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1739
+        width: 238
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceeb2535f2d35f4daba8565033f5ef1
+      internalID: -1043146444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1411
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86402ab9655b6f4abb064a4761423b7
+      internalID: 35707318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf30f98c1fea0d4ab245ccd8b037424
+      internalID: 239067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723614792e01c64fadc87f416b43539
+      internalID: 1767552643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_15
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f036231f517eb240b1b64ac562e5da8
+      internalID: -1533895278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_16
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c47114d31aaa438938fbd9de0dd8f
+      internalID: -294650808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_17
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1405
+        width: 70
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4083768676d984bbc0c0d39a7df474
+      internalID: 1893811176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_18
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1405
+        width: 70
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b2b71c2c24294e974f42189bddd6b
+      internalID: -1878901833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_19
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1405
+        width: 74
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094cd6d623d3b2f4cadfdf1a4e1572ab
+      internalID: 332252346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_20
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb751af537711344a9f8848a8af0b55
+      internalID: 454663868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_21
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e452f02dd5efd45b2300692fe6288d
+      internalID: 33264408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_22
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1c85b0779fc640a1c6a7c4d968fc4
+      internalID: -141862939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_23
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bba31b488fc71458c4e5da9d793334
+      internalID: -1322963977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1151
+        width: 112
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72015e9ecd17c244fae8e3d98faff15c
+      internalID: 1792387516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1151
+        width: 110
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b67ba344c6cba49828e2fbd2bbcfd2
+      internalID: -2038602621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1139
+        width: 102
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164faf6d332d0e94dbb62923b06de8cc
+      internalID: 1164893876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1111
+        width: 100
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7287e50b87f549a63e0ea062611c1
+      internalID: -273909532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_28
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1085
+        width: 94
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0168df07e287449a8ec6f2e2baeec5
+      internalID: 1359043731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_29
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1085
+        width: 214
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c6e5f39793534c8a6bd8f101ece80
+      internalID: 1931129176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_30
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1085
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b954857d5cc2f234882d67061a6086b3
+      internalID: -1604388301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_31
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1085
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9007f2e88b1f754196b753fb84a471a
+      internalID: -1305763527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_32
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1085
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828f3352cbb71e409a275df923f79fc
+      internalID: 1174343971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_33
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c70ddf80ec5e60418ac2a12ca471dc3
+      internalID: 956026497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_34
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 1085
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10fa92e7c150d499ece6178449b804
+      internalID: -62714284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_35
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5575196ca75044684fed06c3856134
+      internalID: -2147320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07f004fff234c4aa7bdb561d5255a2
+      internalID: 268925589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7198f6fd756b4740a741291aebcbb93
+      internalID: 452560409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ca555b70075b479d19f425bd13d48
+      internalID: -1897141347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_39
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767d8c0fcea3274cab2e6546ba68029
+      internalID: -1486880751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_40
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cec9adabe761a47a7334a8bfbae74c
+      internalID: 1306263137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_41
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6387e00cac95e4d93d851b7b8a906b
+      internalID: -1732350138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_42
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 765
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0aa6a8f1a50648b32837fe5da495e
+      internalID: 1270095566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_43
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4e236c6584c443a53b423e8c159c2
+      internalID: -1743592681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_44
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 765
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2db4d72c08f0d4388f8b3a0a0e9d30
+      internalID: 1048038931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_45
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 765
+        width: 190
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbf8032d41d8140a243a4e344da29c
+      internalID: 1275410961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_46
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 765
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01c5add1a513e4c99e8787500d54ab
+      internalID: -883949368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_47
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 765
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a74222916dc346bf1331fcb4a64c0
+      internalID: -50807914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_48
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 481
+        width: 306
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd9a815e583ee4fb1ac9e9dbff2512
+      internalID: -1741866679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_49
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 513
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe047d9d6aa4584899458cd0ed728b3
+      internalID: -868434421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_50
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 721
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9f1633550442e49bb04410bd5a8976
+      internalID: 2117607896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 445
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5e0b188784b24996a6478390b1bb8
+      internalID: 507144949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 445
+        width: 190
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40adbd4202a43584aa0adb4d27b529a6
+      internalID: 537672100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 445
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e0e4d526cc274ca87a6a9dae48b0c
+      internalID: -490618769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_54
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 637
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271614b186cdca4990e31a0e4e4dd95
+      internalID: 702966496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_55
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 635
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e5ad42409c5a4192bacb30d51343b
+      internalID: 1133714900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_56
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 605
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058abecfeffe464489b6a676ff19502
+      internalID: -2005662378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_57
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 631
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb320d79d603154faf5d44627add6f1
+      internalID: -1063302771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_58
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 637
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab6496a9e16d64890d2fa37d6bee3f
+      internalID: -1966108124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_59
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 445
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e6672e3feae474aa56b1f2f21987d1
+      internalID: -226570124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_60
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 629
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af21ef54a639b343bec3838bd438979
+      internalID: -1583129750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_61
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 445
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04749b5b378d88d40bdf60527acb58ff
+      internalID: 911736412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_62
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 609
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0725c69e0d5d34496548c8f93d650d
+      internalID: 404639820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_63
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 445
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaaeb14d88ff254d94918060a70b859
+      internalID: 393527866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_64
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 445
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7444ff46ffc444a0df762e888ee34
+      internalID: -1843313918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_65
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 445
+        width: 190
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc998f69f363b44aec4a31bb74673f
+      internalID: 1330235094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_66
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 507
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e7ce33d56d644084257161423d946
+      internalID: -586476441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_67
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 517
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af898237db7304c9087c113101f005
+      internalID: 1235029268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_68
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 497
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b0f053f22bf5440b000271e6a3e97c
+      internalID: 1539495882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_69
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 513
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ef4569a320264ca830394496d4c43
+      internalID: 2002469637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_70
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 509
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a473b78b0469ddf4bb968a75024e9848
+      internalID: -1868336115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_71
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 501
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9dc6a2885bcfd4a8a6afd711d7f122
+      internalID: -358820632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_72
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723171c2de805d4f893d4fab53fa249
+      internalID: 2143762576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_73
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e24006960d8c3428a6f4678842466d
+      internalID: 1035107108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2922f714a8469499047e44e69ca747
+      internalID: -755505217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 189
+        width: 186
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d8aed81cb14f448682eca78d8f414
+      internalID: 1675383110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_76
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce22657acc6f70418ab23f43c2e3b13
+      internalID: -790792782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_77
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 193
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505bbe483d50eb4ba38086a191e92cf
+      internalID: 485417853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_78
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70320d67addb32c43885d314d44ba404
+      internalID: -1545846021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_79
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387a5a551fd1ab246bb053f9e19c5b80
+      internalID: -738900138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_80
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595aa6bbf5dc5da47bd16e11c201d503
+      internalID: -1036769055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem para animar 3_81
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 157
+        width: 136
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c682a9cfc365004ba15415cb071add2
+      internalID: 60604099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Personagem para animar 3_0: 1161444571
+      Personagem para animar 3_1: -1780193358
+      Personagem para animar 3_10: 789315084
+      Personagem para animar 3_11: -1043146444
+      Personagem para animar 3_12: 35707318
+      Personagem para animar 3_13: 239067383
+      Personagem para animar 3_14: 1767552643
+      Personagem para animar 3_15: -1533895278
+      Personagem para animar 3_16: -294650808
+      Personagem para animar 3_17: 1893811176
+      Personagem para animar 3_18: -1878901833
+      Personagem para animar 3_19: 332252346
+      Personagem para animar 3_2: 889502198
+      Personagem para animar 3_20: 454663868
+      Personagem para animar 3_21: 33264408
+      Personagem para animar 3_22: -141862939
+      Personagem para animar 3_23: -1322963977
+      Personagem para animar 3_24: 1792387516
+      Personagem para animar 3_25: -2038602621
+      Personagem para animar 3_26: 1164893876
+      Personagem para animar 3_27: -273909532
+      Personagem para animar 3_28: 1359043731
+      Personagem para animar 3_29: 1931129176
+      Personagem para animar 3_3: -148587079
+      Personagem para animar 3_30: -1604388301
+      Personagem para animar 3_31: -1305763527
+      Personagem para animar 3_32: 1174343971
+      Personagem para animar 3_33: 956026497
+      Personagem para animar 3_34: -62714284
+      Personagem para animar 3_35: -2147320570
+      Personagem para animar 3_36: 268925589
+      Personagem para animar 3_37: 452560409
+      Personagem para animar 3_38: -1897141347
+      Personagem para animar 3_39: -1486880751
+      Personagem para animar 3_4: -1799331445
+      Personagem para animar 3_40: 1306263137
+      Personagem para animar 3_41: -1732350138
+      Personagem para animar 3_42: 1270095566
+      Personagem para animar 3_43: -1743592681
+      Personagem para animar 3_44: 1048038931
+      Personagem para animar 3_45: 1275410961
+      Personagem para animar 3_46: -883949368
+      Personagem para animar 3_47: -50807914
+      Personagem para animar 3_48: -1741866679
+      Personagem para animar 3_49: -868434421
+      Personagem para animar 3_5: -1486769805
+      Personagem para animar 3_50: 2117607896
+      Personagem para animar 3_51: 507144949
+      Personagem para animar 3_52: 537672100
+      Personagem para animar 3_53: -490618769
+      Personagem para animar 3_54: 702966496
+      Personagem para animar 3_55: 1133714900
+      Personagem para animar 3_56: -2005662378
+      Personagem para animar 3_57: -1063302771
+      Personagem para animar 3_58: -1966108124
+      Personagem para animar 3_59: -226570124
+      Personagem para animar 3_6: -971702817
+      Personagem para animar 3_60: -1583129750
+      Personagem para animar 3_61: 911736412
+      Personagem para animar 3_62: 404639820
+      Personagem para animar 3_63: 393527866
+      Personagem para animar 3_64: -1843313918
+      Personagem para animar 3_65: 1330235094
+      Personagem para animar 3_66: -586476441
+      Personagem para animar 3_67: 1235029268
+      Personagem para animar 3_68: 1539495882
+      Personagem para animar 3_69: 2002469637
+      Personagem para animar 3_7: 195792914
+      Personagem para animar 3_70: -1868336115
+      Personagem para animar 3_71: -358820632
+      Personagem para animar 3_72: 2143762576
+      Personagem para animar 3_73: 1035107108
+      Personagem para animar 3_74: -755505217
+      Personagem para animar 3_75: 1675383110
+      Personagem para animar 3_76: -790792782
+      Personagem para animar 3_77: 485417853
+      Personagem para animar 3_78: -1545846021
+      Personagem para animar 3_79: -738900138
+      Personagem para animar 3_8: -1558062107
+      Personagem para animar 3_80: -1036769055
+      Personagem para animar 3_81: 60604099
+      Personagem para animar 3_9: 741044125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
